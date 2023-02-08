@@ -23,4 +23,10 @@ This project showcases my proficiency in using Vue3 framework and Leaflet librar
 - Axios (1.3.0)
 - Pinia (2.0.30)
 
-## Project setup
+## Setup
+The project is split into two parts: frontend and backend. The frontend is a Vue3 application, and the backend is a Laravel API. The frontend is located in the `frontend` directory, and the backend is located in the `backend` directory.
+
+1. Clone this repository
+2. Set up `.env` file in the backend directory
+3. Run `composer install`, `php artisan migrate` and `php artisan serve` in the backend directory
+4. Start live server in the frontend directory and navigate to the localhost address
