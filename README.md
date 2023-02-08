@@ -30,3 +30,9 @@ The project is split into two parts: frontend and backend. The frontend is a Vue
 2. Set up `.env` file in the backend directory
 3. Run `composer install`, `php artisan migrate` and `php artisan serve` in the backend directory
 4. Start live server in the frontend directory and navigate to the localhost address
+
+## Planned features
+Since this project is still in development, I'm planning to keep working on it and add new features. Here's a list of features I'm planning to add in the future: 
+- [ ] Add a search bar
+- [ ] Add ability to use time slider to filter markers by date
+- [ ] Add ability to display data from multiple sources and file formats
